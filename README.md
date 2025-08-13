@@ -1,6 +1,6 @@
 # ESP32-S3 Zero WeAct 2.9-inch Epaper Module Display-Info
 
-This is the accompanying repository for my article "Getting Started with a 2.9-inch Epaper display connected to an ESP32-S3 Zero device" available here: 
+This is the accompanying repository for my article "Getting Started with a 2.9-inch Epaper display connected to an ESP32-S3 Zero device" available here: https://medium.com/@androidcrypto/787117082d86
 
 ![Image 1](./images/esp32_s3_zero_epaper_01_600w.png)
 
